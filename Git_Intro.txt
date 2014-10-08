@@ -4,3 +4,5 @@ First change to the file
 Second change to the file
 
 Deliberate mistake to correct later
+
+More text added before the mistake has been spotted
